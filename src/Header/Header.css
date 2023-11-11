@@ -1,0 +1,20 @@
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+header a {
+    color: rgb(134, 134, 134);
+    font-size: .75rem;
+    text-decoration:none;
+    letter-spacing: 5px;
+}
+
+header a:focus, header a:hover {
+    color: white;
+}
+
+header > img {
+    width: 35%;
+}

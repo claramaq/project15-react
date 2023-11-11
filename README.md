@@ -3,18 +3,18 @@ A form submission log that retains submitted data.
 
 ## Tasks
 
-- [ ] Clone repository and set up React environment.
-- [ ] Create base HTML file.
-- [ ] Create base CSS file for initial sorting of elements.
-- [ ] Create React App.
-- [ ] Psuedo Code App funcitonality.
+- [x] Clone repository and set up React environment.
+- [x] Create base HTML.
+- [x] Create base CSS.
+- [x] Psuedo Code App funcitonality.
 - [ ] Code Basic Functionalities of App:
-  - [ ] Form Submission
-  - [ ] Submission Board
+  - [x] Form Submission - works
+  - [ ] Submission Board - issue: doesn't always update
   - [ ] Data Storage
 - [ ] Wishlist if time is plentiful:
+- [ ] Create validation for form inputs
   - [ ] Edit and Delete Functionalities
-  - [ ] Lock these functionalities to creators IP
+  - [ ] Lock these functionalities to cookies
   - [ ] Allow owner to Delete Submissions in case of Spam
   - [ ] Allow owner to Lock Form Submissions while not monitoring
     - [ ] Alternatively send notification or email when new submission is made to review.
