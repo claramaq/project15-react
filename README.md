@@ -12,7 +12,7 @@ A form submission log that retains submitted data.
   - [ ] Submission Board - issue: doesn't always update
   - [ ] Data Storage
 - [ ] Wishlist if time is plentiful:
-- [ ] Create validation for form inputs
+  - [ ] Create validation for form inputs
   - [ ] Edit and Delete Functionalities
   - [ ] Lock these functionalities to cookies
   - [ ] Allow owner to Delete Submissions in case of Spam
