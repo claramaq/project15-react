@@ -1,5 +1,7 @@
-# Project 15 - React Form Submission Log
-A form submission log that retains submitted data.
+![snack board screenshot](/public/snack.png)
+
+# Project 15 - React Snack Board
+A form submission log returns a name, date, and favorite snack.
 
 ## Tasks
 
@@ -11,4 +13,4 @@ A form submission log that retains submitted data.
   - [x]  Form Submission
   - [x]  Submission Board 
 - [x]  Test and Debug
-- [ ]  Add Screenshot and Deploy Live
+- [x]  Add Screenshot and Deploy Live
