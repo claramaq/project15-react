@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/project15-react/static/css/main.583f6b85.css",
-    "main.js": "/project15-react/static/js/main.d37453ac.js",
+    "main.css": "/project15-react/static/css/main.fe71993d.css",
+    "main.js": "/project15-react/static/js/main.16f5f605.js",
     "static/js/787.445815d8.chunk.js": "/project15-react/static/js/787.445815d8.chunk.js",
     "static/media/pretzel.svg": "/project15-react/static/media/pretzel.c367ef6f84a7bfb978e5f5ecb1aa9097.svg",
     "index.html": "/project15-react/index.html",
-    "main.583f6b85.css.map": "/project15-react/static/css/main.583f6b85.css.map",
-    "main.d37453ac.js.map": "/project15-react/static/js/main.d37453ac.js.map",
+    "main.fe71993d.css.map": "/project15-react/static/css/main.fe71993d.css.map",
+    "main.16f5f605.js.map": "/project15-react/static/js/main.16f5f605.js.map",
     "787.445815d8.chunk.js.map": "/project15-react/static/js/787.445815d8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.583f6b85.css",
-    "static/js/main.d37453ac.js"
+    "static/css/main.fe71993d.css",
+    "static/js/main.16f5f605.js"
   ]
 }
