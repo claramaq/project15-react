@@ -1,0 +1,21 @@
+input[type='textbox'],
+input[type='button'],
+input[type='submit'] {
+  width: 100%;
+  border-radius: 2px;
+}
+.required {
+  /* border: 1px solid red; */
+  font-size: .45em;
+  color: red;
+  text-align: right;
+}
+.none {
+  display: none;
+}
+.error {
+  border: 1px solid red;
+}
+.error::placeholder {
+  color: red;
+}
