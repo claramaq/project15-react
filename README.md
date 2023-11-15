@@ -7,7 +7,7 @@ A form submission log that retains submitted data.
 - [x]  Create base HTML.
 - [x]  Create base CSS.
 - [x]  Psuedo Code App funcitonality.
-- [ ]  Code Basic Functionalities of App:
+- [x]  Code Basic Functionalities of App:
   - [x]  Form Submission
   - [x]  Submission Board 
 - [x]  Test and Debug
